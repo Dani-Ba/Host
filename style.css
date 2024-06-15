@@ -1,0 +1,23 @@
+* {
+  font-family: cursive;
+}
+
+body {
+  margin: 0;
+  color: #ffffff;
+  background: #313338;
+}
+
+.btn {
+  position: relative;
+  padding: 12px 20px;
+  text-decoration: none;
+  border-radius: 8px;
+  font-size: 18px;
+  color: #0ea5e9;
+  transition: background .15s ease-in-out;
+}
+
+.btn:hover {
+  background: #79ccff80;
+}
