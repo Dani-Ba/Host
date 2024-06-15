@@ -1,4 +1,5 @@
 # Mi host
 
-Solo sirve para hostear
-[Aquí está mi web](/)
+### Solo sirve para hostear:
+
+[Clic aquí](https://dani-ba.github.io/Host)
