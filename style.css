@@ -3,13 +3,18 @@
 }
 
 body {
-  margin: 0;
+  margin: 10px;
   color: #ffffff;
   background: #313338;
 }
 
+h1 {
+  margin: 0 0 10px;
+}
+
 .btn {
   position: relative;
+  display: inline-block;
   padding: 12px 20px;
   text-decoration: none;
   border-radius: 8px;
@@ -19,5 +24,5 @@ body {
 }
 
 .btn:hover {
-  background: #79ccff80;
+  background: #009eff40;
 }
